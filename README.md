@@ -2,19 +2,36 @@
 
 <p align="center">
   <b>“Small consistent actions build massive results.”</b><br/>
-  🚀 Tracking my daily growth in coding, learning, and personal development.
 </p>
 
 ---
-
 ## 🧾 Daily Logs
 
 <div align="center">
 
-| Date | GitHub | LeetCode | Udemy | Monkeytype |
-|------|---------|----------|--------|-------------|
-| 27 Oct 2025 | ✅ | ✅ | ✅ | ✅ |
-| 26 Oct 2025 | ✅ | ✅ | ❌ | ✅ |
+<table>
+  <tr>
+    <th>Date</th>
+    <th>GitHub</th>
+    <th>LeetCode</th>
+    <th>Udemy</th>
+    <th>Monkeytype</th>
+  </tr>
+  <tr>
+    <td>27 Oct 2025</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td>26 Oct 2025</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+    <td align="center">✅</td>
+  </tr>
+</table>
 
 </div>
 
@@ -37,7 +54,7 @@
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="GitHub"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="LeetCode"/>
   <img src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" alt="Udemy" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Udemy"/>
-  <img src="https://avatars.githubusercontent.com/u/50188234?s=200&v=4" alt="Monkeytype" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Monkeytype"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGaQNL3XmKs6Q/company-logo_200_200/company-logo_200_200/0/1673214811889/monkeytypegame_logo?e=2147483647&v=beta&t=FdFz9laOiDMevxBf91WwfrgDNgHrdqAArOLTQicFBos" alt="Monkeytype" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Monkeytype"/>
 </p>
 
 
