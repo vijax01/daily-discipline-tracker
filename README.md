@@ -28,7 +28,7 @@
     <td>26 Oct 2025</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
     <td align="center">✅</td>
   </tr>
 </table>
