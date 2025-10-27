@@ -44,7 +44,7 @@
 
 | GitHub | LeetCode |
 |--------|-----------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=vijax01&theme=react&hide_border=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/vijax01?theme=light&font=Karla) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=vijax01&theme=react&hide_border=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/vijax01?theme=dark&font=Karma&ext=contest) |
 
 ---
 
