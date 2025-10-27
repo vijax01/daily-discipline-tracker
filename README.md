@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">👉 <a href="./logs/2025-10.md">View all logs →</a></p>
+<p align="center">👉 <a href="./logs/logs.md">View all logs →</a></p>
 
 ---
 
