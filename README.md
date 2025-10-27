@@ -31,10 +31,11 @@
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="GitHub"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Ir9453MFZjzGK8jeX9en0kjW8igj-FTNg&s" alt="LeetCode" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="LeetCode"/>
-  <img src="https://images.seeklogo.com/logo-png/40/1/udemy-logo-png_seeklogo-409219.png" alt="Udemy" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Udemy"/>
-  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGaQNL3XmKs6Q/company-logo_200_200/company-logo_200_200/0/1673214811889/monkeytypegame_logo?e=2147483647&v=beta&t=FdFz9laOiDMevxBf91WwfrgDNgHrdqAArOLTQicFBos" alt="Monkeytype" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Monkeytype"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="LeetCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" alt="Udemy" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Udemy"/>
+  <img src="https://avatars.githubusercontent.com/u/50188234?s=200&v=4" alt="Monkeytype" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Monkeytype"/>
 </p>
+
 
 </p>
 
