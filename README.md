@@ -41,12 +41,10 @@
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="45" height="45" title="LeetCode"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="45" height="45" title="Udemy"/>
-  <img src="https://monkeytype.com/static/icon192.png" width="45" height="45" title="Monkeytype"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  <img src="https://img.shields.io/badge/Streak-Active-success?style=flat-square&logo=github" width="45" height="45" title="GitHub"/>
+  <img src="https://img.shields.io/badge/Solved-3_today-orange?style=flat-square&logo=leetcode" width="45" height="45" title="LeetCode"/>
+  <img src="https://img.shields.io/badge/Lesson-2_today-blue?style=flat-square&logo=udemy" width="45" height="45" title="Udemy"/>
+  <img src="https://img.shields.io/badge/Typing-Done-brightgreen?style=flat-square&logo=monkeytype" width="45" height="45" title="Monkeytype"/>
 </p>
 
 <p align="center">
