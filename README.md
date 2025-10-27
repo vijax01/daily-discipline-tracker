@@ -7,22 +7,11 @@
 
 ---
 
-## ⚡ Overview Dashboard
-
-| Platform | Goal | Status | Progress |
-|-----------|------|---------|-----------|
-| 💻 **GitHub** | Daily commit streak | ![status](https://img.shields.io/badge/Streak-Active-success?style=flat-square&logo=github) | ![GitHub Progress](https://progress-bar.dev/85/?title=85%25&width=200&color=00cc66) |
-| 🧮 **LeetCode** | 1 problem/day | ![status](https://img.shields.io/badge/Solved-3_today-orange?style=flat-square&logo=leetcode) | ![LeetCode Progress](https://progress-bar.dev/70/?title=70%25&width=200&color=ffcc00) |
-| 🎓 **Udemy** | 1 lesson/day | ![status](https://img.shields.io/badge/Lesson-2_today-blue?style=flat-square&logo=udemy) | ![Udemy Progress](https://progress-bar.dev/50/?title=50%25&width=200&color=007BFF) |
-| ⌨️ **Monkeytype** | 10 min typing | ![status](https://img.shields.io/badge/Typing-Done-brightgreen?style=flat-square&logo=monkeytype) | ![Typing Progress](https://progress-bar.dev/90/?title=90%25&width=200&color=ff6600) |
-
----
-
 ## 🧾 Daily Logs
 
 | Date | GitHub | LeetCode | Udemy | Monkeytype |
 |------|---------|----------|--------|-------------|
-| 27 Oct 2025 | ✅ Commit done | ✅ 1 problem | ✅ 2 lessons | ✅ 10 min |
+| 27 Oct 2025 | ✅ | ✅ | ✅ | ✅ |
 | 26 Oct 2025 | ✅ | ✅ | ❌ | ✅ |
 
 👉 [View all logs →](./logs/2025-10.md)
@@ -41,10 +30,12 @@
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streak-Active-success?style=flat-square&logo=github" width="45" height="45" title="GitHub"/>
-  <img src="https://img.shields.io/badge/Solved-3_today-orange?style=flat-square&logo=leetcode" width="45" height="45" title="LeetCode"/>
-  <img src="https://img.shields.io/badge/Lesson-2_today-blue?style=flat-square&logo=udemy" width="45" height="45" title="Udemy"/>
-  <img src="https://img.shields.io/badge/Typing-Done-brightgreen?style=flat-square&logo=monkeytype" width="45" height="45" title="Monkeytype"/>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="GitHub"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Ir9453MFZjzGK8jeX9en0kjW8igj-FTNg&s" alt="LeetCode" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="LeetCode"/>
+  <img src="https://images.seeklogo.com/logo-png/40/1/udemy-logo-png_seeklogo-409219.png" alt="Udemy" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Udemy"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGaQNL3XmKs6Q/company-logo_200_200/company-logo_200_200/0/1673214811889/monkeytypegame_logo?e=2147483647&v=beta&t=FdFz9laOiDMevxBf91WwfrgDNgHrdqAArOLTQicFBos" alt="Monkeytype" width="50" height="50" style="margin: 0 15px; vertical-align: middle;" title="Monkeytype"/>
+</p>
+
 </p>
 
 <p align="center">
